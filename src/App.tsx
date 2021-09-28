@@ -1,8 +1,8 @@
-import { Button } from "./components/Button";
-import { Home } from "./pages/Home";
+// import { Button } from "./components/Button";
+import { NewRoom } from "./pages/NewRoom";
 
 function App() {
-  return <Home />;
+  return <NewRoom />;
 }
 
 export default App;
